@@ -1,0 +1,204 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+
+.content-head {
+    position: fixed;
+    top: 30px;
+    text-align: center;
+    width: 100%;
+    min-width: 662px;
+}
+
+.content-head .logo {
+    background-image: url("../images/bruxens_logo.png");
+    width: 662px;
+    height: 195px;
+    margin: auto;
+    text-indent: -9999px;
+}
+
+.content-head .description {
+    width: 80%;
+    margin: auto;
+    font-variant: small-caps;
+    letter-spacing: 3px;
+    font-size: 16px;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    .content-head .description {
+        font-size: 18px;
+        font-weight: bold;
+    }
+}
+
+.content-foot {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    min-width: 662px;
+    margin: auto;
+    text-align: center;
+}
+
+.content-foot a {
+    display: inline-block;
+    width: 169px;
+    height: 100px;
+}
+
+.clip-triangle {
+    margin-left: -71px;
+}
+
+.clip-triangle-reverse {
+    margin-left: -57px;
+}
+
+.etsy-link {
+    background-image: url('../images/etsy_black.png');
+}
+
+.etsy-link:hover {
+    background-image: url('../images/etsy_orange.png');
+}
+
+.facebook-link {
+    background-image: url('../images/facebook_black.png');
+}
+
+.facebook-link:hover {
+    background-image: url('../images/facebook_blue.png');
+}
+
+.instagram-link {
+    background-image: url('../images/instagram_black.png');
+}
+
+.instagram-link:hover {
+    background-image: url('../images/instagram_colour.png');
+}
+
+.pinterest-link {
+    background-image: url('../images/pinterest_black.png');
+}
+
+.pinterest-link:hover {
+    background-image: url('../images/pinterest_red.png');
+}
+
+.twitter-link {
+    background-image: url('../images/twitter_black.png');
+}
+
+.twitter-link:hover {
+    background-image: url('../images/twitter_blue.png');
+}
+
+.content-friends {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.content-friends a {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.background {
+    width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.background-01 {
+    background-image: url("../images/backgrounds/background-01.jpg");
+    height: 1251px;
+}
+
+.background-02 {
+    background-image: url("../images/backgrounds/background-02.jpg");
+    height: 1281px;
+}
+
+.background-03 {
+    background-image: url("../images/backgrounds/background-03.jpg");
+    height: 700px;
+}
+
+.background-04 {
+    background-image: url("../images/backgrounds/background-04.jpg");
+    height: 1222px;
+}
+
+.background-05 {
+    background-image: url("../images/backgrounds/background-05.jpg");
+    height: 1269px;
+}
+
+.background-06 {
+    background-image: url("../images/backgrounds/background-06.jpg");
+    height: 1268px;
+}
+
+.background-07 {
+    background-image: url("../images/backgrounds/background-07.jpg");
+    height: 1285px;
+}
+
+.background-08 {
+    background-image: url("../images/backgrounds/background-08.jpg");
+    height: 1280px;
+}
+
+.background-09 {
+    background-image: url("../images/backgrounds/background-09.jpg");
+    height: 1281px;
+}
+
+.background-10 {
+    background-image: url("../images/backgrounds/background-10.jpg");
+    height: 1277px;
+}
+
+.background-11 {
+    background-image: url("../images/backgrounds/background-11.jpg");
+    height: 1275px;
+}
+
+.background-12 {
+    background-image: url("../images/backgrounds/background-12.jpg");
+    height: 1141px;
+}
+
+.background-13 {
+    background-image: url("../images/backgrounds/background-13.jpg");
+    height: 1146px;
+}
+
+.background-14 {
+    background-image: url("../images/backgrounds/background-14.jpg");
+    height: 1321px;
+}
+
+.background-15 {
+    background-image: url("../images/backgrounds/background-15.jpg");
+    height: 1132px;
+}
+
+.background-16 {
+    background-image: url("../images/backgrounds/background-16.jpg");
+    height: 1278px;
+}
+
+.background-17 {
+    background-image: url("../images/backgrounds/background-17.jpg");
+    height: 1250px;
+}
