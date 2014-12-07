@@ -15,8 +15,8 @@ body, html {
 
 .content-head .logo {
     background-image: url("../images/bruxens_logo.png");
-    width: 662px;
-    height: 195px;
+    width: 378px;
+    height: 112px;
     margin: auto;
     text-indent: -9999px;
 }
@@ -47,16 +47,16 @@ body, html {
 
 .content-foot a {
     display: inline-block;
-    width: 169px;
-    height: 100px;
+    width: 100px;
+    height: 59px;
 }
 
 .clip-triangle {
-    margin-left: -71px;
+    margin-left: -41px;
 }
 
 .clip-triangle-reverse {
-    margin-left: -57px;
+    margin-left: -27px;
 }
 
 .etsy-link {
