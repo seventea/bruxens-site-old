@@ -50,6 +50,13 @@ body, html {
     display: inline-block;
     width: 100px;
     height: 59px;
+    position: relative;
+}
+
+.shop_icon {
+    position: absolute;
+    top: -92px;
+    left: -44px;
 }
 
 .clip-triangle {
