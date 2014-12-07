@@ -43,6 +43,7 @@ body, html {
     min-width: 662px;
     margin: auto;
     text-align: center;
+    margin-left: 27px;
 }
 
 .content-foot a {
